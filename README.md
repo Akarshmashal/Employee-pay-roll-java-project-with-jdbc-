@@ -1,2 +1,2 @@
-# Employee-pay-roll-java-project-with-jdbc-
-This repo contains java project
+# java-Project
+This repo contains java projects
